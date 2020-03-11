@@ -1,0 +1,15 @@
+# pip install -U -r requirements.txt
+numpy
+opencv-python
+torch
+torchvision
+Pillow
+scipy
+sklearn
+h5py
+tensorboardX
+
+# Tensorboard pip requirements -------------------------------------------------
+# tb-nightly
+# future
+
