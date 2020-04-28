@@ -30,4 +30,16 @@ We conduct experiments on [Market1501](http://www.liangzheng.org/Project/project
 
 
 ## Acknowledgements
-Our code is HEAVILY borrowed and modified from [FD-GAN](https://github.com/yxgeee/FD-GAN)and [open-reid](https://github.com/Cysu/open-reid).
+Our code is HEAVILY borrowed and modified from [FD-GAN](https://github.com/yxgeee/FD-GAN) and [open-reid](https://github.com/Cysu/open-reid).
+
+## Citation
+Please cite our paper if you find the code useful for your research.
+```
+@InProceedings{Li_2019_ICCV,
+author = {Li, Yu-Jhe and Lin, Ci-Siang and Lin, Yan-Bo and Wang, Yu-Chiang Frank},
+title = {Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2019}
+}
+```
